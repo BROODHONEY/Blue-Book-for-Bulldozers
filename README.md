@@ -14,6 +14,6 @@ The evaluation metric for this competition is the RMSLE (root mean squared log e
 
 <i> Note: This project is not in the competition! </i>
 
-When compared with the leaderboard, this model stands at 26th position with a RSMLE value of `0.2438688551772499`.
+When compared with the leaderboard, this model stands at 26th position with a RMSLE value of `0.2438688551772499`.
 
 https://www.kaggle.com/competitions/bluebook-for-bulldozers/leaderboard
